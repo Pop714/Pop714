@@ -10,15 +10,11 @@
 
 <br clear="both">
 
-<h4 align="left">✎ Contributed to various projects available on the Play Store, including ONVO, ONVO TV, AXIOS, and Airwave. My graduation project in college, Kalmni, was an Android app utilizing AI and 3D technology to bridge communication gaps.</h4>
+<h4 align="left">✎ Contributed to various projects available on the Play Store, including <a href='https://play.google.com/store/apps/details?id=me.onvo.onvo' target='_blank'>ONVO</a>, <a href='https://play.google.com/store/apps/details?id=me.onvo.tv' target='_blank'>ONVO TV</a>, <a href='https://play.google.com/store/apps/details?id=me.onvo.axios' target='_blank'>AXIOS</a>, and <a href='https://play.google.com/store/apps/details?id=me.onvo.wave' target='_blank'>Airwave</a>. My graduation project in college, <a href='https://github.com/example/kalmni' target='_blank'>Kalmni</a>, was an Android app utilizing AI and 3D technology to bridge communication gaps.</h4>
 
 ###
 
 <h4 align="left">📱 My tech skills</h4>
-
-###
-
-
 
 ###
 
@@ -60,8 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
 </div>
 
-
-
 ###
 
 <div align="center">
@@ -69,7 +63,6 @@
 </div>
 
 ###
-
 
 
 ###
