@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<p align="left">✎ Contributed to various projects available on the Play Store, including ONVO, ONVO TV, AXIOS, and Airwave. My graduation project in college, Kalmni, was an Android app utilizing AI and 3D technology to bridge communication gaps.</p>
+<h4 align="left">✎ Contributed to various projects available on the Play Store, including ONVO, ONVO TV, AXIOS, and Airwave. My graduation project in college, Kalmni, was an Android app utilizing AI and 3D technology to bridge communication gaps.</h4>
 
 ###
 
