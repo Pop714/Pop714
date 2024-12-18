@@ -14,6 +14,12 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*00OhuHHBGIfcmqY4.gif"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -52,11 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img height="200" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*00OhuHHBGIfcmqY4.gif"  />
-</div>
 
 ###
 
