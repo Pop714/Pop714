@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.gifer.com/HaD1.gif"  />
+  <img height="200" src="https://gifdb.com/images/thumbnail/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.gif"  />
 </div>
 
 <h3 align="left">Hi there! 👋 I'm <b>Albraa Abdalhalim Alhrairy</b>, an Android Developer passionate about crafting applications that simplify and enrich lives. With a degree in Artificial Intelligence from Kafr El-Sheikh University (GPA: 3.72), I specialize in merging innovation with intuitive design to build impactful solutions.</h3>
