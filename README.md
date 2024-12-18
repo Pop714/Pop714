@@ -1,6 +1,7 @@
 <br clear="both">
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img height="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"  />
   <img height="200" src="https://gifdb.com/images/thumbnail/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.gif"  />
 </div>
 
