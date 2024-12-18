@@ -4,65 +4,54 @@
   <img height="200" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*00OhuHHBGIfcmqY4.gif"  />
 </div>
 
-<h3 align="left">Hi there! 👋 I'm an Android Developer with a passion for building apps that make life easier and more fun. With a degree in Artificial Intelligence from Kafr El-Sheikh University (GPA: 3.72), I focus on combining creativity and technology to deliver innovative solutions.</h3>
+<h3 align="left">Hi there! 👋 I'm an Android Developer passionate about crafting applications that simplify and enrich lives. With a degree in Artificial Intelligence from Kafr El-Sheikh University (GPA: 3.72), I specialize in merging innovation with intuitive design to build impactful solutions.</h3>
 
-###
+---
 
 <br clear="both">
 
-<h4 align="left">✎ Contributed to various projects available on the Play Store, including <a href='https://play.google.com/store/apps/details?id=me.onvo.onvo' target='_blank'>ONVO</a>, <a href='https://play.google.com/store/apps/details?id=me.onvo.tv' target='_blank'>ONVO TV</a>, <a href='https://play.google.com/store/apps/details?id=me.onvo.axios' target='_blank'>AXIOS</a>, and <a href='https://play.google.com/store/apps/details?id=me.onvo.wave' target='_blank'>Airwave</a>. My graduation project in college, <a href='https://github.com/example/kalmni' target='_blank'>Kalmni</a>, was an Android app utilizing AI and 3D technology to bridge communication gaps.</h4>
+<h4 align="left">✎ Featured Projects</h4>
+<p align="left">
+  <ul>
+    <li><a href='https://play.google.com/store/apps/details?id=me.onvo.onvo' target='_blank'><b>ONVO:</b></a> A creative communication app enabling users to share drawings, music, and engage in Q&A anonymously.</li>
+    <li><a href='https://play.google.com/store/apps/details?id=me.onvo.tv' target='_blank'><b>ONVO TV:</b></a> A media player with synchronized watch parties, customizable subtitles, and direct streaming links.</li>
+    <li><a href='https://play.google.com/store/apps/details?id=me.onvo.axios' target='_blank'><b>AXIOS Code:</b></a> A mobile IDE offering Node.js runtime, VS Code editor, npm package management, and GitHub integration.</li>
+    <li><a href='https://play.google.com/store/apps/details?id=me.onvo.wave' target='_blank'><b>Airwave:</b></a> A social music-sharing platform that brings friends together for live listening parties and playlist sharing.</li>
+    <b>Kalmni:</b></a> My graduation project - an Android app utilizing AI and 3D technology to translate sign language into text and speech, bridging communication gaps
+  </ul>
+</p>
 
-###
+---
 
-<h4 align="left">📱 My tech skills</h4>
-
-###
-
+<h4 align="left">📱 Tech Skills</h4>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="Gradle logo"  />
 </div>
 
-###
+---
 
 <div align="center">
   <img height="200" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*PGFH2ml8nRtgF_q0.gif"  />
 </div>
 
-###
-
-
-###
+---
