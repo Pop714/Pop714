@@ -1,5 +1,9 @@
 <br clear="both">
 
+<div align="center">
+  <img height="200" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*00OhuHHBGIfcmqY4.gif"  />
+</div>
+
 <h3 align="left">Hi there! 👋 I'm an Android Developer with a passion for building apps that make life easier and more fun. With a degree in Artificial Intelligence from Kafr El-Sheikh University (GPA: 3.72), I focus on combining creativity and technology to deliver innovative solutions.</h3>
 
 ###
@@ -14,9 +18,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*00OhuHHBGIfcmqY4.gif"  />
-</div>
+
 
 ###
 
